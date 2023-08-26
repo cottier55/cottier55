@@ -13,8 +13,12 @@
     <thead>
       <tr>
         <th>Languages</th>
-        <th>Frameworks</th>
-        <th>Tools</th>
+        <th>Frameworks, Platforms & Libraries</th>
+        <th>Hosting/SaaS</th>
+        <th>Serves</th>
+        <th>Databases</th>
+        <th>Desing</th>
+        <th>Other</th>
       </tr>
     </thead>
     <tbody>
