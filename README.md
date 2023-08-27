@@ -31,7 +31,7 @@
         <td>
           <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=react,,redux,nodejs,express,sass,bootstrap,bash" />
-            <img src="https://iconos8.es/icons/set/react-native" />
+            <img src="https://iconos8.es/icons?i=react-native" />
           </a>
         </td>
         <td>
