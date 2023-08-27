@@ -35,7 +35,7 @@
         </td>
         <td>
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=netlify,vercel"/>
+            <img src="https://skillicons.dev/icons?i=netlify,vercel" />
           </a>
         </td>
         <td>
