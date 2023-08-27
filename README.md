@@ -25,12 +25,13 @@
       <tr>
         <td>
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,sass" />
+            <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python" />
           </a>
         </td>
         <td>
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=react,svelte,astro,nodejs,express,tailwind,bootstrap" />
+            <img src="https://skillicons.dev/icons?i=react,,redux,nodejs,express,sass,bootstrap,bash" />
+            <img src="https://iconos8.es/icons/set/react-native" />
           </a>
         </td>
         <td>
