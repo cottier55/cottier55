@@ -35,7 +35,22 @@
         </td>
         <td>
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=vscode,git,github,vite,netlify,vercel" />
+            <img src="https://skillicons.dev/icons?i=netlify,vercel" />
+          </a>
+        </td>
+        <td>
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=ngnix" />
+          </a>
+        </td>
+        <td>
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+          </a>
+        </td>
+        <td>
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=figma,xd" />
           </a>
         </td>
       </tr>
