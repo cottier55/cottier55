@@ -53,6 +53,11 @@
             <img src="https://skillicons.dev/icons?i=figma,xd" />
           </a>
         </td>
+         <td>
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=docker,git,hibernate,kubernetes,vscode" />
+          </a>
+        </td>
       </tr>
     </tbody>
   </table>
