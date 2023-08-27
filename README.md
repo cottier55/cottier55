@@ -40,7 +40,7 @@
         </td>
         <td>
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=ngnix" />
+            <img src="https://skillicons.dev/icons?i=nginx" />
           </a>
         </td>
         <td>
