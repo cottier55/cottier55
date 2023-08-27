@@ -3,7 +3,7 @@
 
 
 ### 🌐 Socials:
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/channels/@me) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/laprogramadora55) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solange-cottier-920423203/) 
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/channels/@me) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/laprogramadora55) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/solange-cottier-920423203/) 
 
 ### Skills
 
