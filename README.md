@@ -2,7 +2,8 @@
 
 # 💫 About Me:
 
-¡Hola! 👋
+¡Hola!👋 Me llamo Solange!
+
 Soy una Desarrolladora Full Stack con experiencia en una variedad de proyectos relacionados con JavaScript, CSS, HTML5, React, Node.js, Redux, Express, async/await, Sequelize y PostgreSQL. Además, he tenido la oportunidad de trabajar en proyectos que involucran Python y SQLite. Mi formación incluye una base en reparación técnica de dispositivos electrónicos, lo que despertó mi pasión por la tecnología y me introdujo al apasionante mundo de la programación.
 
 Destaco por mi habilidad autodidacta, rapidez de aprendizaje y atención al detalle. Soy una persona organizada y curiosa, con un deseo constante de profundizar en mis conocimientos y mantenerme al tanto de las últimas tendencias en desarrollo web. Creo firmemente en el valor del trabajo en equipo para el crecimiento tanto individual como colectivo, y siempre estoy emocionada por enfrentar nuevos desafíos y oportunidades.
