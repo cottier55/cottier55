@@ -14,7 +14,7 @@ Gracias por visitar mi perfil de GitHub! 😊🚀
 
 
 ### 🌐 Socials:
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/channels/@me) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/laprogramadora55) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/solange-liliana-cottier-47610428a/) 
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/channels/@me) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/laprogramadora55) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/solange-liliana-cottier-47610428a/) 
 
 ### Skills
 
